@@ -2,7 +2,7 @@
 
 Проект по определению токсичных/неискренних вопросов на платформе Quora. Сравниваются три подхода: TF-IDF + Logistic Regression, TF-IDF + LightGBM и BERT-base. Лучший результат показал BERT с ROC-AUC 0.965.
 
-**Ссылка на проект:** [Google Colab]()
+**Ссылка на проект:** [Google Colab](https://colab.research.google.com/drive/1-2yNFb1Pq50PcPFw9VKDEIyUAwWIGxYq#scrollTo=aBu2zNpvIXST)
 **Ссылка на датасет:** [Google Colab](https://www.kaggle.com/datasets/ojasgolatkar/quora-insincere-questions-classification/data)
 
 ---
